@@ -10,7 +10,7 @@ C++ script (using win32 api) to escalate user privileges using Social Engineerin
 -> Once you get the Sysadmin privilege, the program restarts itself in system mode, now you can run your actual malware.
 
 ### How to Use - 
-1) Insert your malware code in the MaliciousCode Function and compile the File.
+1) Insert your malware code in the MaliciousCode Function in SocioEscalate.cpp and compile the File.
 2) Obfuscate it using your own methods and send it to your victim.
 3) Profit !!!
  
